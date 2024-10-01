@@ -1,0 +1,380 @@
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\andersonspera\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Etec Franco da Rocha\Desktop\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+D:\DS - ETEC\paraFazer\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\source\repos\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas_Completo\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas_Semifinalizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\libSkiaSharp.dylib
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.barcodes.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.commons.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.forms.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.io.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.kernel.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.layout.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfa.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfua.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.sign.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.svg.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Buffers.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Memory.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.ValueTuple.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.barcodes.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.commons.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.forms.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.io.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.kernel.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.layout.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfa.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfua.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.sign.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.svg.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Buffers.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Memory.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.ValueTuple.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoG.F3491231.Up2Date
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\3DGlue13-32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\3DGlue13-64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf13-32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf13-64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ChakraCore32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ChakraCore64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\PrintHook32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\PrintHook64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\ABCChrome123.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_100_percent.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_200_percent.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_elf.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\d3dcompiler_47.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\icudtl.dat
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libcef.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libEGL.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libGLESv2.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\LICENSE.txt
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\locales\en-US.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\README.txt
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\resources.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\snapshot_blob.bin
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\v8_context_snapshot.bin
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vk_swiftshader.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vk_swiftshader_icd.json
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vulkan-1.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.AssemblyReference.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddCategoria.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmAddVenda.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmCategorias.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmClientes.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmLogin.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmPrincipal.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmProdutos.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.UI.frmVendas.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.GenerateResource.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\libSkiaSharp.dylib
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ChakraCore32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ChakraCore64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_100_percent.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_200_percent.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\chrome_elf.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\d3dcompiler_47.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\icudtl.dat
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libcef.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libEGL.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\libGLESv2.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\LICENSE.txt
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\locales\en-US.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\README.txt
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\resources.pak
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\snapshot_blob.bin
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\v8_context_snapshot.bin
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vk_swiftshader.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vk_swiftshader_icd.json
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\vulkan-1.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\3DGlue13-32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\3DGlue13-64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf13-32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf13-64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\PrintHook32.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\PrintHook64.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCChrome123\ABCChrome123.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe.config
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.exe
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ProjetoGestaoVendas.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.barcodes.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.commons.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.forms.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.io.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.kernel.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.layout.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfa.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfua.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.sign.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.svg.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Buffers.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Memory.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.ValueTuple.dll
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\ABCpdf.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.barcodes.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.commons.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.forms.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.io.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.kernel.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.layout.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfa.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.pdfua.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.sign.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itext.svg.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.pdb
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\SkiaSharp.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Buffers.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Memory.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\bin\Debug\System.ValueTuple.xml
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.Properties.Resources.resources
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoGestaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\obj\Debug\ProjetoG.F3491231.Up2Date
