@@ -24,7 +24,7 @@ namespace ProjetoGestaoVendas.DAL
 
             // Ajuste o caminho conforme necessário
             string dataArquivo = DateTime.Now.ToString("dd_MM_yyyy");
-            string caminhoPDF = $@"C:\Users\Danilo\Documents\DUDA_ESTUDOS\ProjetoGestaoVendas\ProjetoGestaoVendas_Atualizado\ProjetoGestaoVendas\PDF\FechamnetoCaixa{dataArquivo}.pdf";
+            string caminhoPDF = $@"C:\Users COLOCAR O CAMINHO AONDE SERA SALVO\FechamnetoCaixa{dataArquivo}.pdf";
             PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(caminhoPDF, FileMode.Create));
 
             doc.Open();
