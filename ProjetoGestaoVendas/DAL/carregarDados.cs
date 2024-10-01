@@ -15,7 +15,7 @@ namespace ProjetoGestaoVendas.DAL
         public carreagrDados()
         {
             // Ajuste a string de conexão conforme necessário
-            connectionString = @"Data Source=WS-DANILO\TEW_SQLEXPRESS;Initial Catalog=BDGESTAOVENDAS;Integrated Security=True;Encrypt=False";
+            connectionString = @"Data Source=COLOCAR O NOME DA SUA CONEXAO DO BANCO;Initial Catalog=BDGESTAOVENDAS;Integrated Security=True;Encrypt=False";
         }
 
         public List<(string NomeProduto, decimal Preco)> ObterProdutos()
