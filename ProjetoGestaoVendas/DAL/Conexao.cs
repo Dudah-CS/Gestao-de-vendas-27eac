@@ -11,7 +11,7 @@ namespace ProjetoGestaoVendas.DAL
 {
     internal class Conexao
     {
-        SqlConnection con = new SqlConnection("Data Source=WS-DANILO\\TEW_SQLEXPRESS;Initial Catalog=BDGESTAOVENDAS;Integrated Security=True;Encrypt=False");
+        SqlConnection con = new SqlConnection("Data Source=COLOCAR O NOME DA SUA CONEXAO DO BANCO;Initial Catalog=BDGESTAOVENDAS;Integrated Security=True;Encrypt=False");
         public SqlConnection Conectar()
         {
             if(con.State == ConnectionState.Closed) { con.Open(); } 
