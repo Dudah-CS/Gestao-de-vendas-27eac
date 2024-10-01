@@ -14,6 +14,11 @@ Ao final deste projeto, espera-se entregar um produto que não só resolva os pr
 <br>
 :red_circle: **carrgarDados** Você terá que mudar a connectionString para sua conexão com o banco, conforme mencionado anteriormente.
 
+## Packages
+:red_circle: itextSharp
+<br>
+:red_circle: ABCpdf
+
 ## :open_book: Projeto Acadêmico
 Esse projeto foi desenvolvido para uma das materias do curso Analise e desenvolvimento de Sistemas, projeto foi realizado 100% pelos alunos:<br>
 + [Eduarda Santos](www.linkedin.com/in/eduarda-santos-4b6a2b288)
